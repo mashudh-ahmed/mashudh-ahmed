@@ -2,5 +2,5 @@ Computer Science and Engineering student with a strong focus on becoming a Softw
 
 | Social Media | Stats                            |
 |--------------|----------------------------------|
-| [![Twitter](https://...)](https://twitter.com/your_username) | ![Twitter Follow](https://img.shields.io/twitter/follow/your_username?style=social) |
-| [![GitHub](https://...)](https://github.com/your_username)   | ![GitHub followers](https://img.shields.io/github/followers/your_username?style=social) |
+| [![Twitter](https://...)](https://twitter.com/mashhood_siam) | ![Twitter Follow](https://img.shields.io/twitter/follow/your_username?style=social) |
+| [![GitHub](https://...)](https://github.com/mashudh-ahmed)   | ![GitHub followers](https://img.shields.io/github/followers/your_username?style=social) |
