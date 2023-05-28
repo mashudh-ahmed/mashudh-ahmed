@@ -1,5 +1,9 @@
 Computer Science and Engineering student with a strong focus on becoming a Software Engineer. With a deep passion for technology and an insatiable curiosity, I strive to contribute to the ever-evolving world of Software Development.
 
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mashudh-ahmed&show_icons=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mashudh-ahmed)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 Follow on Social Media:
 
 
