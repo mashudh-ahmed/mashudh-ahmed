@@ -2,5 +2,4 @@ Computer Science and Engineering student with a strong focus on becoming a Softw
 
 
 
- [![Twitter](https://...)](https://twitter.com/mashhood_siam) ![Twitter Follow](https://img.shields.io/twitter/follow/mashhood_siam?style=social) |
 
