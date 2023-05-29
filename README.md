@@ -4,10 +4,12 @@ Computer Science and Engineering student at [AIUB](https://www.aiub.edu/) with a
 
 
 
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mashudh-ahmed&show_icons=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mashudh-ahmed)](https://github.com/anuraghazra/github-readme-stats)
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mashudh-ahmed&show_icons=true) 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mashudh-ahmed&layout=compact)
+ 
 
 
-#### 🔗 Stay Connected
+### Stay Connected
 
 
 
