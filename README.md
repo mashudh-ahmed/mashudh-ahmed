@@ -4,8 +4,10 @@ Computer Science and Engineering student at [AIUB](https://www.aiub.edu/) with a
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mashudh-ahmed&count_private=true&show_icons=true&theme=transparent&bg_color=00000000)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mashudh-ahmed&layout=compact&theme=transparent&bg_color=00000000)
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=mashudh-ahmed&count_private=ture&show_icons=true&theme=transparent&bg_color=00000000" alt="shimanto-rehman" height="50%" width="55%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashudh-ahmed&layout=compact&theme=transparent&bg_color=00000000" alt="languages" height="50%" width="41.7%"/>
+</p>
 
 
 
