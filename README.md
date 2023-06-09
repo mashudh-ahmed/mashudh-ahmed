@@ -11,10 +11,6 @@ Computer Science and Engineering student at [AIUB](https://www.aiub.edu/) with a
 
 
 
-<h3 align="center"> Stay Connected  </h3>
-
-
-
 <p align="center">
 <a href = "mailto:ahmed.mashudh@gmail.com" target="_blank" title="Gmail"><img src = "https://img.icons8.com/color/48/gmail-new.png" width = "45px"/></a>
 <a href = "https://www.linkedin.com/in/mashudh-ahmed" target="_blank" title="Linkedin"><img src ="https://img.icons8.com/fluency/256/linkedin.png" width ="47px"/></a>
