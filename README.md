@@ -1,6 +1,6 @@
 # About 
 
-Computer Science and Engineering student at [AIUB](https://www.aiub.edu/) with a strong focus on becoming a Software Engineer. With a deep passion for technology and an insatiable curiosity, I strive to contribute to the ever-evolving world of Software Development.
+Computer Science and Engineering undergraduate student at [AIUB](https://www.aiub.edu/) with a strong focus on becoming a Software Engineer. With a deep passion for technology and an insatiable curiosity, I strive to contribute to the ever-evolving world of Software Development.
 
 
 
