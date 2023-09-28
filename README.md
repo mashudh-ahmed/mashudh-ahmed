@@ -13,7 +13,7 @@ Computer Science and Engineering student at [AIUB](https://www.aiub.edu/) with a
 ### Stay Connected
 <a href = "mailto:ahmed.mashudh@gmail.com" target="_blank" title="Gmail"><img src = "https://img.icons8.com/color/48/gmail-new.png" width = "45px"/></a>
 <a href = "https://www.linkedin.com/in/mashudh-ahmed" target="_blank" title="Linkedin"><img src ="https://img.icons8.com/fluency/256/linkedin.png" width ="47px"/></a>
-<a href = "https://facebook.com/mashhood.siam" target="_blank" title="Facebook"><img src ="https://img.icons8.com/color/48/facebook-new.png" width ="48px"/></a>
+<a href = "https://facebook.com/mashhood.siam" target="_blank" title="Facebook"><img src ="https://img.icons8.com/color/480/facebook-new.png" width ="48px"/></a>
 <a href = "https://www.instagram.com/mashhood.siam" target="_blank" title="Instagram"><img src ="https://img.icons8.com/fluency/48/instagram-new.png" width ="48px"/></a>
 <a href = "https://x.com/mashhood_siam" target="_blank" title="X"><img src ="https://img.icons8.com/ios-filled/500/twitterx--v1.png" width ="45px"/></a>
 <a href="https://www.threads.net/@mashhood.siam"  target="_blank" title="Threads"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Threads_%28app%29_logo.svg" width = "38px"/></a>
@@ -21,4 +21,4 @@ Computer Science and Engineering student at [AIUB](https://www.aiub.edu/) with a
 <a href = "https://www.codechef.com/users/mashudh_ahmed" target="_blank" title="CodeChef"><img src="https://img.icons8.com/plasticine/100/codechef.png" width ="55px"/></a>
 
 
-
+https://img.icons8.com/color/480/facebook-new.png
