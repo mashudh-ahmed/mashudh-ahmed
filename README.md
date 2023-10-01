@@ -19,5 +19,5 @@ Computer Science and Engineering undergraduate student at [AIUB](https://www.aiu
 <a href = "https://codeforces.com/profile/mashudh_ahmed" target="_blank" title="CodeForces"><img src = "https://img.icons8.com/external-tal-revivo-color-tal-revivo/256/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" width = "45px"/></a>
 <a href = "https://x.com/mashhood_siam" target="_blank" title="X"><img src ="https://img.icons8.com/ios/500/twitterx--v2.png"  width ="42px"/></a>
 <a href = "https://www.codechef.com/users/mashudh_ahmed" target="_blank" title="CodeChef"><img src="https://img.icons8.com/plasticine/500/codechef.png" width ="45px"/></a>
-<a href = "https://x.com/mashudh_ahmed" target="_blank" title="LeetCode"><img src ="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"   width ="40px"/></a>
+<a href = "https://https://leetcode.com/mashudh_ahmed" target="_blank" title="LeetCode"><img src ="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"   width ="40px"/></a>
 
