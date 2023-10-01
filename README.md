@@ -18,5 +18,3 @@ Computer Science and Engineering undergraduate student at [AIUB](https://www.aiu
 <a href = "https://www.codechef.com/users/mashudh_ahmed" target="_blank" title="CodeChef"><img src="https://img.icons8.com/plasticine/500/codechef.png" width ="48px"/></a>
 <a href = "https://www.hackerrank.com/mashudh_ahmed " target="_blank" title="HackerRank"><img src= "https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" width ="42px"/></a>
 
-
-<img width="96" height="96" src=alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo"/>
